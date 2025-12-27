@@ -146,10 +146,6 @@ Adjust exclusions and defaults directly in `nuxt.config.ts` if you add routes.
 - Product images missing: assets are fetched from `https://cdn.juoksut.run/products/{slug}/`; confirm images exist at the CDN.
 - Node/Yarn mismatch: use Node 20 and Yarn 4 (the project uses Yarn Berry via `packageManager`).
 
-## License
-
-MIT — see `LICENSE`.
-
 ## Contact
 
 Questions or feedback: [crew@juoksut.run](mailto:crew@juoksut.run)
